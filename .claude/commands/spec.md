@@ -5,9 +5,9 @@ Fetch GitHub issue #$ARGUMENTS using the available GitHub MCP tools (look for to
 Line 1: What the issue achieves — the user-facing or business outcome
 Line 2: What the backend will do — endpoints, data changes, business logic
 Line 3: What the frontend will do — UI flows, components, routes
-Line 4: Any open questions or blockers you spotted in the issue
+Line 4: Any open questions or blockers you spotted in the issue, ask them one by one. If there are some changes, iterate until you have no more further questions and both repo specs are aligned.
 
-Stop here and wait for the user to confirm ("yes", "go ahead", "lgtm", or similar) before writing any files.
+Stop here and wait for the user to confirm ("yes", "go ahead", "lgtm", or similar) before writing any files. Don't proceed if you are still uncertain about things on how to implement it
 
 ---
 
