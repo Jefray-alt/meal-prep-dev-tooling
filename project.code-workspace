@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "backend",
+      "path": "../meal-prep-api"
+    },
+    {
+      "name": "frontend",
+      "path": "../meal-pre"
+    },
+    {
+      "name": "dev-tooling",
+      "path": "."
+    }
+  ]
+}
