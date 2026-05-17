@@ -48,6 +48,22 @@
 ## Security Considerations
 <!-- Auth checks, rate limiting, input sanitisation, PII handling -->
 
+## Tests
+
+### Unit tests
+<!-- What should be unit-tested? List the key cases for service/handler logic. -->
+
+| Scenario | Expected outcome |
+|----------|-----------------|
+|          |                 |
+
+### Integration / e2e tests
+<!-- Which endpoints need e2e coverage? List happy path + critical error cases. -->
+
+| `METHOD /path` | Case | Expected status |
+|----------------|------|----------------|
+|                |      |                |
+
 ## Open Questions
 <!--
 - [ ] Question one

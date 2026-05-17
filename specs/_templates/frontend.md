@@ -43,6 +43,22 @@
 ## Accessibility
 <!-- Focus management, ARIA roles, keyboard nav, colour contrast -->
 
+## Tests
+
+### Component tests
+<!-- Key rendering and interaction cases to cover with Vitest + Testing Library. -->
+
+| Component | Scenario | Expected behaviour |
+|-----------|----------|--------------------|
+|           |          |                    |
+
+### E2E / integration tests
+<!-- Critical user flows that need full browser coverage. -->
+
+| Flow | Steps summary | Pass condition |
+|------|--------------|----------------|
+|      |              |                |
+
 ## Open Questions
 <!--
 - [ ] Question one
