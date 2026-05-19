@@ -40,11 +40,6 @@ npm run lint -- --fix  # auto-fix ESLint/perfectionist ordering
 
 **App name:** mise — an AI-assisted meal-prep planner.
 
-**Frontend routes:**
-- `/` — Home: chat interface (AI responses are stubbed with `setTimeout`; real API not wired yet)
-- `/create` — Create: manual meal-prep form with client-side validation
-- `/meal-preps` — MealPreps: list view (scaffold)
-
 **State pattern:** Pages (`src/pages/`) own all state; components (`src/components/`) are purely presentational. Validation logic lives in the page file alongside the page component (`validate()` in `Create.tsx`).
 
 **API:** NestJS app on port 3000 (env `PORT` overrides). Currently only the generated AppModule scaffold — no domain modules yet.
