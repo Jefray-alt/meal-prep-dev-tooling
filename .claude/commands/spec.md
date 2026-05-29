@@ -22,6 +22,7 @@ Stop here and wait for the user to confirm ("yes", "go ahead", "lgtm", or simila
 Interview the user to reach a shared, complete understanding of the feature before writing anything.
 
 **Interview rules:**
+- Scan the the backend and frontned for relevant context (you can check the location of each repo on the project.code-workspace)
 - Ask only one question at a time — never a list of questions
 - Each question must build on the previous answer; don't follow a fixed script
 - Keep asking until you have clear answers for: what the feature does, who it's for, the key user flows, backend changes needed (if any), and any constraints or open decisions
